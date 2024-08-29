@@ -12,9 +12,11 @@ I will use the transformers library to:
 - Tokenize input text.
 - Generate text based on a given prompt.
 
-Related project : 
+Related project (using OpenAI): 
 
 Repository : https://github.com/leachouri/Spring-AI-Llm-Langchain
+
+screenshot
 
 ![image](https://github.com/user-attachments/assets/43f7950d-8052-4ddd-aa44-d7fe38862e87)
 
